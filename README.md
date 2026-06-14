@@ -5,6 +5,7 @@
 ## About Me
 高校1年生からUnityでゲーム開発をしています。
 大学からは、アプリやツールの開発にも興味が出ています。
+paiza Sランク
 
 ### 学習分野
 - Android(Java/Kotlin)
